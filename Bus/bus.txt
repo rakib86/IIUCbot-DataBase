@@ -1,0 +1,1 @@
+Please use /bus command to get the Bus Schedule. Or simply type "/bus"
