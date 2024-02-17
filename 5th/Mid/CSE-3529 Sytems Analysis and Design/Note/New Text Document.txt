@@ -22,4 +22,8 @@ Segment 3
 
 System and design Youtube playlist:
 
+video
+( 1-8)
+(12,13,14,15)
+
 https://youtube.com/playlist?list=PLWxTHN2c_6cbuRXdCpsYYMxy0N4SSfIX9&si=FpUsUS6q5ycM47ZU
